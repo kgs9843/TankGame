@@ -1,0 +1,4 @@
+startBG	Image	"startBG.jpg"
+tankSkin		Image		"roka.jpg"
+tankMask		Image		"tankMask.png"
+space		image	"space.jpg"
